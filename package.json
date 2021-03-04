@@ -3,6 +3,12 @@
   "version": "1.0.0",
   "description": "Educational node.js project to start with DBs, sequelize & sockets",
   "main": "main.js",
+  "info": {
+    "githubURL": "ging-moocs/MOOC_node_mod3-bbdd_entrega",
+    "serverUrl": "https://autocorector.dit.upm.es/",
+    "courseId": "2",
+    "assignmentId": "9"
+  },
   "scripts": {
     "migrate": "sequelize db:migrate --url sqlite://$(pwd)/db.sqlite",
     "seed": "sequelize db:seed:all --url sqlite://$(pwd)/db.sqlite",
