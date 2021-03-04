@@ -38,6 +38,8 @@ $ npm start     ##  or 'node main'
     > tq | qt | t    ## quiz: test (play)
     > uq | qu        ## quiz: update
     > dq | qd        ## quiz: delete
+    > p              ## quiz: play
+    > ls             ## Scores Users
     >
     > lf | fl | f    ## favourites: list all
     > cf | fc        ## favourite: create
